@@ -1,0 +1,2 @@
+C:\Users\prasa\source\repos\VueFrondend\obj\Debug\vuefrondend.esproj.CoreCompileInputs.cache
+C:\Users\prasa\source\VueFrondend\obj\Debug\vuefrondend.esproj.CoreCompileInputs.cache
